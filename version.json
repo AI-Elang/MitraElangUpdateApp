@@ -1,0 +1,9 @@
+{
+  "version": "0.0.2",
+  "build_number": 1,
+  "force_update": true,
+  "url": "https://github.com/AI-Elang/MitraElangUpdateApp/releases/download/v0.0.2/app-release.apk",
+  "changelog": [
+    "update test 2",    "New feature consume kpi and compliance"
+  ]
+}
