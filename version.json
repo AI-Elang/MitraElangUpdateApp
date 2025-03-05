@@ -1,0 +1,9 @@
+{
+  "version": "0.0.13",
+  "build_number": 1,
+  "force_update": true,
+  "url": "https://github.com/AI-Elang/MitraElangUpdateApp/releases/download/v0.0.13/app-release.apk",
+  "changelog": [
+    "Update new feature site and kecamatan",    "Update new feature outlet and kecamatan",    "Update card introduction in home page"
+  ]
+}
