@@ -1,0 +1,9 @@
+{
+  "version": "0.0.29",
+  "build_number": 1,
+  "force_update": true,
+  "url": "https://github.com/AI-Elang/MitraElangUpdateApp/releases/download/v0.0.29/app-release.apk",
+  "changelog": [
+    "Fix scroll in list outlets"
+  ]
+}
