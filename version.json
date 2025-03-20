@@ -1,0 +1,9 @@
+{
+  "version": "1.0.3",
+  "build_number": 1,
+  "force_update": true,
+  "url": "https://github.com/AI-Elang/MitraElangUpdateApp/releases/download/v1.0.3/app-release.apk",
+  "changelog": [
+    "Update column target,actual, persentase pjp on page  dse AI "
+  ]
+}
