@@ -1,0 +1,9 @@
+{
+  "version": "1.0.12",
+  "build_number": 1,
+  "force_update": true,
+  "url": "https://github.com/AI-Elang/MitraElangUpdateApp/releases/download/v1.0.12/app-release.apk",
+  "changelog": [
+    "Update permission handler location in outlet view",    "Fix bug logout otomatis"
+  ]
+}
