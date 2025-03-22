@@ -1,0 +1,9 @@
+{
+  "version": "1.0.9",
+  "build_number": 1,
+  "force_update": true,
+  "url": "https://github.com/AI-Elang/MitraElangUpdateApp/releases/download/v1.0.9/app-release.apk",
+  "changelog": [
+    "Update new feature listoutletvalid in detail site",    "Update format site count and outlet count in dashboard",    "Fix size card site "
+  ]
+}
